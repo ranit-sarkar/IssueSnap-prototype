@@ -8,7 +8,7 @@ Built by first-year BTech CSE students for Lean In Hacks, the Nexconn Build Chal
 
 ## Live demo
 
-https://ranit-sarkar.github.io/issuesnap-prototype/
+ https://ranit-sarkar.github.io/IssueSnap-prototype/
 
 Tip: open it in one browser tab only (see "Known limits").
 
