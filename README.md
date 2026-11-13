@@ -10,7 +10,7 @@ Built by first-year BTech CSE students for Lean In Hacks and the
 West Bengal Seva First Innovation Challenge.
 
 ## Live demo
-https://ranit-sarkar.github.io/issuesnap-prototype/
+ https://ranit-sarkar.github.io/IssueSnap-prototype/
 
 ## What the prototype shows
 - Sign up and log in with a simulated OTP
